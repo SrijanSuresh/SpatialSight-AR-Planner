@@ -5,6 +5,7 @@
 **Engineered for real-world reliability** — handles indoor/outdoor transitions, mid-range Android devices, and heavy asset counts without dropping below 60 FPS.
 
 ![Hero Screenshot](https://github.com/user-attachments/assets/6797c316-d874-408c-8c72-ddd45ee5f2da)
+<img width="440" height="350" alt="image" src="https://github.com/user-attachments/assets/1749bbc7-5f6f-450b-8d1d-a49dd5e75895" />
 
 ## Core Engineering Wins
 
